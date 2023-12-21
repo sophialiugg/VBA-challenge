@@ -23,7 +23,7 @@ https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip
  * Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
 The result should match the following image:
-![solution](Images/2019.png)
+![solution](2019.png)
 
 ## Note
 * Make sure to use conditional formatting that will highlight positive change in green and negative change in red. (Requirements asked for conditional formatting to be applied to both yearly change column and the percent change column)
